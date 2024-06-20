@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ArtSphere</string>
+    <string name="name">Name</string>
+    <string name="email">Email / Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="logout">Logout</string>
+    <string name="register">REGISTER</string>
+    <string name="add_content">Add content</string>
+    <string name="user_avatar">User photo</string>
+    <string name="username">Username</string>
+    <string name="gallery">GALLERY</string>
+    <string name="scan">SCAN</string>
+    <string name="reset">BACK TO SCAN</string>
+    <string name="description">Description</string>
+    <string name="retry">Retry</string>
+    <string name="image_login">login image</string>
+    <string name="image_signup">signup image</string>
+    <string name="title">Welcome to ArtSphere</string>
+    <string name="error_email">Masukkan Email Yang Valid</string>
+    <string name="signup">Register</string>
+    <string name="profil">Profil</string>
+    <string name="image_welcome">Welcome Image</string>
+    <string name="upload">UPLOAD</string>
+    <string name="bg_image">bg image profil</string>
+    <string name="profil_image">profil image</string>
+
+
+    <string name="alert">Alert</string>
+    <string name="alert_message_logout">Are you sure want to logout?</string>
+    <string name="alert_logout_negative_button">No</string>
+    <string name="alert_logout_positive_button">Yes</string>
+
+    <string name="pass_true">Password is incorrect</string>
+    <string name="pass_false">Password is Correct</string>
+    <string name="regis_true">Registration Successful</string>
+    <string name="regis_false">Register failed. The email format is incorrect or your email is already registered.</string>
+    <string name="login_false">Login failed. Please try again</string>
+    <string name="email_false">Enter Email or Username</string>
+    <string name="add_scan">scan disini</string>
+    <string name="add_story">tambahkan cerita disini</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+</resources>
